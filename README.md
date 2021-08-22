@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarathchandra1202
 - 👀 I’m interested in coding,problem solving
-- 🌱 I’m currently learning computer languages
+- 🌱 I’m currently learning computer programming languages
 - 📫 How to reach me ...sarathchandra7680@gmail.com
 
 <!---
